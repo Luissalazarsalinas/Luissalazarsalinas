@@ -173,7 +173,23 @@
 
 ## Projects
 <a href="https://github.com/Luissalazarsalinas/Corn-Leaf-Diseases-Detection">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Luissalazarsalinas&repo=Corn-Leaf-Diseases-Detection
-&theme=dark"/>
+       <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luissalazarsalinas&repo=Corn-Leaf-Diseases-Detection)](https://github.com/Luissalazarsalinas/Corn- 
+        Leaf-Diseases-Detection) -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luissalazarsalinas&repo=Corn-Leaf-Diseases-Detection&theme=dark" />
 </a>  
 
+<a href="https://github.com/Luissalazarsalinas/Churn-detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luissalazarsalinas&repo=Churn-detection&theme=dark" />
+</a> 
+
+<a href="https://github.com/Luissalazarsalinas/Fraud-Detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luissalazarsalinas&repo=Fraud-Detection&theme=dark" />
+</a> 
+
+<a href="https://github.com/Luissalazarsalinas/Stock-Volatility-Forecast">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luissalazarsalinas&repo=Stock-Volatility-Forecast&theme=dark" />
+</a> 
+
+<a href="https://github.com/Luissalazarsalinas/Avocado-Yield-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luissalazarsalinas&repo=Avocado-Yield-Prediction&theme=dark" />
+</a> 
