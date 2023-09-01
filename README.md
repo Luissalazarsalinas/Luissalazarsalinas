@@ -16,7 +16,7 @@
 </p>
 
 <p >
-  **I work with data to make data driven decisions and to build applications using tools like Python Programming Language, SQL, PowerBI, FastAPI, Machine Learning frameworks, Cloud tools(AWS, Heroku) and basically any tool suitable for the task at hand. I'm also a Technical Content Writer😁**
+	I design and implement scalable data architectures and develop applications based on data using tools such as Python and Scala programming languages, SQL, Machine and Deep learning frameworks, statistical models, and Cloud platforms like Microsoft Azure. 
 </p>
 
 ### Cloud Certifications
