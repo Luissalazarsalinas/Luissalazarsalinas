@@ -16,7 +16,7 @@
 </p>
 
 <p >
-	I design and implement scalable data architectures and develop applications based on data using tools such as Python and Scala programming languages, SQL, Machine and Deep learning frameworks, statistical models, and Cloud platforms like Microsoft Azure. 
+	I work with data, designing and implementing scalable data architectures and developing applications based on data using tools such as Python and Scala programming languages, SQL, Machine and Deep learning frameworks, statistical models, and Cloud platforms(Microsoft Azure).
 </p>
 
 ### Cloud Certifications
