@@ -171,6 +171,9 @@
   
 </p> 
 
-## PROJECTS
-
+## Projects
+<a href="https://github.com/Luissalazarsalinas/Corn-Leaf-Diseases-Detection">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Luissalazarsalinas&repo=Corn-Leaf-Diseases-Detection
+&theme=dark"/>
+</a>  
 
