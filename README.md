@@ -193,3 +193,11 @@
 <a href="https://github.com/Luissalazarsalinas/Avocado-Yield-Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luissalazarsalinas&repo=Avocado-Yield-Prediction&theme=dark" />
 </a> 
+
+<a href="https://github.com/Luissalazarsalinas/Trading-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luissalazarsalinas&repo=Trading-Bot&theme=dark" />
+</a> 
+
+<a href="https://github.com/Luissalazarsalinas/Ml_and_Datascience_Competition">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Luissalazarsalinas&repo=Ml_and_Datascience_Competition&theme=dark" />
+</a> 
